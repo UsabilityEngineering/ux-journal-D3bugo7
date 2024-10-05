@@ -5,7 +5,7 @@ I m a Computer science major and I m taking this course as one of the wirting re
 
 ## UX Team Project
 
-Coming soon.
+Tune-To-sheets
 
 ## UX Journal
 
