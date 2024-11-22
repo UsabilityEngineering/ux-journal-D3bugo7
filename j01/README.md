@@ -2,9 +2,7 @@
 
 I’ve been using both the Amazfit GTR 3 Pro and the Citizen x Black Panther watches for a while now, and they each bring something totally unique to my daily routine. The Amazfit GTR 3 Pro is like a personal assistant on my wrist—keeping track of my health, sending me notifications, and letting me customize the display however I want. It’s sleek and modern, with a sharp display that’s pretty easy to read in all lighting conditions. 
 
-<img src="https://amazfitwatchfaces.com/storage/gtr/img/1729499374_7e645a5ab0.png" alt="Amazfit GTR 3 Pro Watch Face" width="300">  
-
-<img src="https://i5.walmartimages.com/asr/39b867ce-6ad2-4c82-88fe-b6409ade09e3.d49f6462e675bc130623b4ea2c701fab.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF" alt="Amazfit GTR 3 Pro Watch Face" width="300">
+ <img src="https://m.media-amazon.com/images/I/61ETdWUY-TL._AC_SL1180_.jpg" alt="Alt text for the image" width="300"> <img src="https://amazfitwatchfaces.com/storage/gtr/img/1729499374_7e645a5ab0.png" alt="Amazfit GTR 3 Pro Watch Face" width="300"> 
 
 
 Then, there’s the Citizen x Black Panther. This analog watch feels almost like a piece of art on my wrist. It’s got this bold Black Panther design that really stands out, and the detail is impressive. It’s not just about checking the time; it’s about wearing something that feels unique and well-crafted. The whole look is stylish and a bit nostalgic, reminding me of the beauty of traditional watches that don’t have to be plugged in.
