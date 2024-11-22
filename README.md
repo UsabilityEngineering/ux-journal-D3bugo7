@@ -9,4 +9,4 @@ Tune-To-sheets
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+["Smartwatch vs. Classic: A Daily Contrast"](j01/)
