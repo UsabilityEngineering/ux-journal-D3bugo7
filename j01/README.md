@@ -21,6 +21,7 @@ To check my notifications or health metrics on the Amazfit GTR 3 Pro, I simply s
 
            
 The Citizen x Black Panther, on the other hand, is refreshingly simple. It doesn’t rely on vibrations or visual **feedback**. Instead, I wind it up in the morning, a process that has become almost meditative. The resistance of the winding mechanism gives tactile **feedback** that assures me the watch is ready for the day. This lack of reliance on technology aligns well with my **mental model** of a classic, reliable timepiece. There’s no need to worry about battery life or software updates—it’s always ready to go.
+
 While the Amazfit GTR 3 Pro excels in **efficiency and accessibility**, the Citizen x Black Panther shines in its simplicity and timeless appeal. The smartwatch is perfect for days when I want to stay connected and monitor my health, while the analog watch offers a break from screens and a touch of nostalgia. Both watches have their own **affordances**, the Amazfit’s design encourages interaction through swiping and tapping, while the Citizen’s design communicates elegance and reliability. Having both makes me appreciate the evolution of watches and how they continue to cater to different needs and preferences.
 
 
